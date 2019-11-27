@@ -13,3 +13,8 @@ This is done using Python, mainly with the modules pandas and cassandra.
 The sparkifydb database is Apache Cassandra based and is about storing information about songs and listening behaviour of the users
 
 The analytical goal of this database to get all kinds of individual insights into the user beahviour. Please consider here, that I work here only with a few data samples. Apacha Cassandra is made for big data, therefore to get individual insights into user behaviour Apacha Cassandra is much more suitable than a relational database.
+
+## Files and Scripts
+
+### Project_1B_ Project_Template
+This is the main notebook, which contains the whole etl pipeline
