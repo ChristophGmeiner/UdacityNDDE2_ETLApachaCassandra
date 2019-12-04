@@ -18,3 +18,10 @@ The analytical goal of this database to get all kinds of individual insights int
 
 ### Project_1B_ Project_Template
 This is the main notebook, which contains the whole etl pipeline
+
+First the data is transfered from csv to a pandas dataframe for analysis reasons, before further importing the data into the database.
+
+Then 3 tables are created and filled (based on needed queries, these arer defined in the notebook).
+
+Afterwards test queries are ran, to check whether the queries run succesfull.
+
